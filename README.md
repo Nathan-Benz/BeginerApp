@@ -4,7 +4,7 @@ Submitted by: **Nathan Benitez**
 
 **Hello World** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -16,13 +16,15 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Made the button display random cat facts when clicked
+* [x] Discription text bold to improve readability
+
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
@@ -34,6 +36,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+One of the challenges I faced while building the app was getting the array to accept all the facts properly. 
+Then, it was making it so the app would print a new random message each time the button was clicked and not just on starup.
 
 ## License
 
