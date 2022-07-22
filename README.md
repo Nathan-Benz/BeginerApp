@@ -1,4 +1,4 @@
-# Android Prework - *Beginer App*
+# Android Prework - *Beginner App*
 
 Submitted by: **Nathan Benitez**
 
